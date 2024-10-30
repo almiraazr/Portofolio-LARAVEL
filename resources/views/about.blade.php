@@ -12,5 +12,7 @@
   <h1 class="text-2xl font-bold underline">
     About Me!
   </h1>
+</header>
+<a href="{{route('home')}}" class="text-1xl font-bold mb-4">Kembali</a>
 </body>
 </html>
